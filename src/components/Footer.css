@@ -1,0 +1,385 @@
+.fot{
+    position: absolute;
+    width: 100%;
+    height: 465px;
+    left: 0px;
+    top: 4700px;
+    background: #001F27;
+}
+.col1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+position: absolute;
+width: 255px;
+height: 282px;
+left: 165px;
+top: 96px;
+}
+.des100{
+    width: 255px;
+height: 168px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+}
+.social{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+width: 184px;
+height: 24px;
+flex: none;
+order: 2;
+align-self: flex-start;
+flex-grow: 0;
+}
+.insta{
+    width: 24px;
+height: 24px;
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+}
+.dribbble{
+    width: 24px;
+height: 24px;
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+}
+.twiiter{
+    width: 24px;
+height: 24px;
+flex: none;
+order: 2;
+align-self: flex-start;
+flex-grow: 0
+}
+.path{
+    width: 24px;
+height: 24px;
+flex: none;
+order: 3;
+align-self: center;
+flex-grow: 0;
+}
+.fb{
+ width: 24px;
+height: 24px;
+flex: none;
+order: 4;
+align-self: center;
+flex-grow: 0;
+}
+.right{
+    position: absolute;
+height: 24px;
+left: 11.46%;
+right: 66.74%;
+top: calc(50% - 24px/2 + 215.5px);
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+}
+.col4{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+position: absolute;
+width: 255px;
+height: 198px;
+left: 512px;
+top: 96px;
+}
+.reach{
+    width: 255px;
+height: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.list12{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+width: 255px;
+height: 144px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.email{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+width: 255px;
+height: 24px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.email1{
+    width: 223px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.mobile{
+ display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+width: 255px;
+height: 24px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.mobile1{
+    width: 223px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+}
+.address1{
+    width: 150px;
+    height: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-feature-settings: 'liga' off;
+    color: #D9DBE1;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.address{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+width: 150px;
+height: 48px;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.col3{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+position: absolute;
+width: 255px;
+height: 186px;
+left: 767px;
+top: 96px;
+}
+.link{
+    width: 255px;
+height: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.listitem{
+ display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+width: 160px;
+height: 132px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.blog1{
+    width: 160px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.blog2{
+    width: 160px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.blog3{
+    width: 160px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.blog4{
+    width: 160px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+font-feature-settings: 'liga' off;
+color: #D9DBE1;
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+.col5{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+position: absolute;
+width: 255px;
+height: 164px;
+left: 1021px;
+top: 96px;
+
+}
+.install11{
+    width: 97px;
+height: 28px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+font-feature-settings: 'liga' off;
+color: #F4F5F7;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.bagdes999{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+width: 162px;
+height: 112px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.badge123{
+width: 162px;
+height: 48px;
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+}
+.badge1234{
+ width: 162px;
+height: 48px;
+
+flex: none;
+order: 1;
+align-self: flex-start;
+flex-grow: 0;
+}
+.comingsoon1{
+ position: absolute;
+width: 99px;
+height: 21px;
+left: 1051px;
+top: 240px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+}

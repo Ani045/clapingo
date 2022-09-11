@@ -1,0 +1,348 @@
+.chose{
+position: absolute;
+width: 469px;
+height: 52px;
+left: 120px;
+top: 2507px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 52px;
+letter-spacing: -0.01em;
+color: #001F27;
+}
+.frame111{
+    position: absolute;
+width: 248px;
+height: 400px;
+left: 80px;
+top: 2607px;
+background: rgba(236, 238, 241, 0.75);
+border-radius: 12px;
+}
+.img111{
+    position: absolute;
+width: 232px;
+height: 215px;
+left: 8px;
+top: 8px;
+
+background: url(), #FFFAFA;
+border-radius: 6px;
+}
+.box1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+position: absolute;
+width: 189px;
+height: 112px;
+left: 18px;
+top: 247px;
+}
+.head111{
+width: 189px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: -0.01em;
+color: #001F27;
+flex: none;
+order: 0;
+flex-grow: 0;
+padding-right: 18px;
+padding-left: 8px;
+
+}
+.data111{
+width: 188px;
+height: 72px;
+top: 247px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+font-feature-settings: 'liga' off;
+color: #001F27;
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-bottom: 41px;
+padding: 8px;
+}
+.frame222{
+    position: absolute;
+    width: 277px;
+    height: 400px;
+    left: 355px;
+    top: 2607px;
+    background: rgba(236, 238, 241, 0.75);
+    border-radius: 12px;
+}
+.img222{
+ position: absolute;
+width: 261px;
+height: 215px;
+left: 8px;
+top: 8px;
+background: url(), #FFFAFA;
+border-radius: 6px;
+}
+.box222{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+position: absolute;
+width: 227px;
+height: 112px;
+left: 18px;
+top: 247px;
+}
+.head222{
+    width: 170px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: -0.01em;
+color: #001F27;
+flex: none;
+order: 0;
+flex-grow: 0;
+padding-left: 18px;
+}
+.data222{
+ width: 227px;
+height: 72px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+font-feature-settings: 'liga' off;
+color: #001F27;
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-bottom: 41px;
+padding: 8px;
+}
+.frame333{
+ position: absolute;
+width: 307px;
+height: 213px;
+left: 660px;
+top: 2607px;
+background: rgba(236, 238, 241, 0.75);
+border-radius: 12px;
+}
+.img333{
+position: absolute;
+width: 126px;
+height: 197px;
+left: 8px;
+top: 8px;
+background: url();
+border-radius: 6px;
+}
+.box333{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+position: absolute;
+width: 138px;
+height: 154px;
+left: 152px;
+top: 30px;
+}
+.head333{
+    
+width: 138px;
+height: 48px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: -0.01em;
+color: #001F27;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.data333{
+    width: 138px;
+height: 90px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+font-feature-settings: 'liga' off;
+color: #001F27;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.frame444{
+ position: absolute;
+width: 307px;
+height: 157px;
+left: 660px;
+top: 2850px;
+background: rgba(236, 238, 241, 0.75);
+border-radius: 12px;
+}
+.img444{
+position: absolute;
+width: 100px;
+height: 91px;
+left: 8px;
+top: 8px;
+background: url();
+border-radius: 6px;
+}
+.box444{
+ display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+position: absolute;
+width: 138px;
+height: 100px;
+left: 152px;
+top: 29px;
+}
+.head444{
+    width: 126px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: -0.01em;
+color: #001F27;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.data444{
+    width: 126px;
+height: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+font-feature-settings: 'liga' off;
+color: #001F27;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.frame555{
+    position: absolute;
+width: 278px;
+height: 400px;
+right: 80px;
+top: 2607px;
+background: rgba(236, 238, 241, 0.75);
+border-radius: 12px;
+}
+.img555{
+    position: absolute;
+width: 262px;
+height: 215px;
+left: 8px;
+top: 8px;
+
+background: url();
+border-radius: 6px;
+}
+.box555{
+ display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+position: absolute;
+width: 232px;
+height: 112px;
+left: 18px;
+top: 247px;
+}
+.head555{
+    width: 151px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: -0.01em;
+color: #001F27;
+padding-left: 18px;
+}
+.data555{
+    width: 232px;
+height: 72px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+font-feature-settings: 'liga' off;
+color: #001F27;
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-bottom: 41px;
+padding: 8px;
+}
+.booking{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 8px;
+gap: 10px;
+position: absolute;
+width: 137px;
+height: 48px;
+left: 600px;
+top: 3071px;
+background: #FF736A;
+border-radius: 80px;
+}
+.frame971{
+    width: 89px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: -0.01em;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
