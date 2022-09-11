@@ -19,7 +19,7 @@ like a pro.
         </div>
       </div>
       <div className='coming'>
-        Coming Soon
+        Coming Soon!
       </div>
       <div className='img1111'>
         <img src='\images\Place your Design.png'></img>
